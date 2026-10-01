@@ -26,7 +26,7 @@ Dashboardda həmçinin interaktiv filtrlər və kredit/gəlir nisbəti üzrə di
 
 -35%-dən yüksək Kredit/Gəlir nisbətinə malik müştərilər ayrıca segment kimi təhlil edilmişdir. Bu seqmentdə ümumi defolt göstəricisi 71.9% təşkil edir. Kredit/Gəlir nisbəti artdıqca defolt göstəricisinin də yüksəldiyi müşahidə olunur: 30–40% qrupunda 69.5%, 40–50% qrupunda 72.9%, 50%-dən yuxarı qrupda isə 78.6%. Bu nəticə yüksək borc yükü ilə defolt riski arasında əlaqənin araşdırılmasının kredit riskinin qiymətləndirilməsi baxımından əhəmiyyətli ola biləcəyini göstərir.
 
-![Yüksək KreditGəlir nisbəti üzrə risk](screenshots/Yüksək%20KreditGəlir%20nisbəti%20üzrə%20risk.png)
+![Yüksək Kredit/Gəlir nisbəti üzrə risk](screenshots/Yüksək%20KreditGəlir%20nisbəti%20üzrə%20risk.png)
 
 ### Müəyyən kredit dərəcəsinə malik yüksək riskli müştərilər
 
